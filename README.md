@@ -1,7 +1,7 @@
 # Matrix Calculator
 a CLI based calculator to compute basic matrix operations
 
-You can access the calculator [HERE](https://replit.com/@602558/Matrix-Solver#main.py)
+You can access the calculator [here](https://replit.com/@602558/Matrix-Solver#main.py)
 
 
 ## Available Operations
