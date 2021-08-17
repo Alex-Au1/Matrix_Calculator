@@ -2,7 +2,7 @@
 Here is the current list of commands for the calculator and the requirements for each commands
 
 Command Name | Command Symbol | Description | No. of Matrices Needed for Operation
-------------------------------------------------------------------------------
+-------------|----------------|-------------|---------------------------------
 Addition | + | Adds a list matrices toghether | 2 or more
 Subtraction | - | Subtracts a list of matrices | 2 or more
 Scalar Multiplication | * | Multiplies a matrix by a scalar value | 1
