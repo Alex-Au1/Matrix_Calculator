@@ -19,5 +19,5 @@ Currently, here are the features that you could do with the calculator
 * Converts Matrices from one base to another
 
 ## Commands
-You can view the list of commands here
+You can view the list of specific commands [over here](https://github.com/Alex-Au1/Matrix_Calculator/blob/development/Uses_and_Examples/Commands.md)
 
